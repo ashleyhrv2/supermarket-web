@@ -1,0 +1,13 @@
+body
+{
+	background-color:#e0dffd;
+}
+
+button[id="btnsubmit"]
+{
+background-color:transparent;
+	display:inline-block;
+	width: 15%;
+	height:150;
+	text-align:center;
+}
