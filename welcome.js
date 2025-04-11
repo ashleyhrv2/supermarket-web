@@ -8,6 +8,6 @@ function addListener()
 
 function play()
 {
-	alert("hi");
+	window.location.href = "login1.html";
 	
 }

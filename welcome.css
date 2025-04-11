@@ -2,12 +2,17 @@ body
 {
 	background-color:#e0dffd;
 }
+h1
+{
+        font-family:comic sans MS;
+	text-align:center;
+	margin-bottom: 20px;
+		
+}
 
 button[id="btnsubmit"]
 {
-background-color:transparent;
-	display:inline-block;
-	width: 15%;
-	height:150;
-	text-align:center;
+        background-color:transparent;
+        margin-left: 590px;	
 }
+
