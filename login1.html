@@ -1,5 +1,19 @@
 <html>
 <head>
 <title>LOGIN</title>
+<link rel="stylesheet" href="\static\login.css">
+<script src="\static\login.js"></script>
 </head>
+<body>
+<form action="/info" method="post">
+<div id="login">
+<label id="lblusername">Username{{username}}</label>
+<input id="lblusername" name="txtusername"></input><br>
+
+<label id="lblpassword">Password{{password}}</label>
+<input id="lblpassword" name="txtpassword"></input>
+<button id="btnloginsubmit">Login</button>
+</div>
+</form>
+</body>
 </html>

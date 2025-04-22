@@ -13,6 +13,16 @@ h1
 button[id="btnsubmit"]
 {
         background-color:transparent;
-        margin-left: 590px;	
+        margin-left: 590px;
+        text-align:center;	
 }
+
+button[id="btnsubmitacc"]
+{
+        background-color:transparent;
+        margin-left: 590px;
+        text-align:center;	
+}
+
+
 
